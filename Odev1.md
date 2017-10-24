@@ -1,7 +1,5 @@
 
 
-Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
-
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 10-C  | Ayça Sıla Şen | 480
